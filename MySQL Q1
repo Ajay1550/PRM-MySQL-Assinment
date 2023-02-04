@@ -4,4 +4,4 @@ COUNTRY_NAME varchar(40) null,
 REGION_ID decimal(8,0) null
 );
 
-show table;
+
