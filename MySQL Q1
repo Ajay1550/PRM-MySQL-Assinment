@@ -1,7 +1,7 @@
 create table if not exists countries(
 COUNTRY_ID varchar(2) null,
 COUNTRY_NAME varchar(40) null,
-REGION_ID decimal(10,0) null
+REGION_ID decimal(8,0) null
 );
 
 show table;
